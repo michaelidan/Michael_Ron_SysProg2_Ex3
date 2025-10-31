@@ -3,9 +3,7 @@ Emails: ronavraham1999@gmail.com michael9090124@gmail.com
 # Coup (מטלה 3) — Michael and Ron
 
 
----
 
-# Coup – פרויקט קורס (System Programming 2)
 
 
 פרויקט המדמה את משחק **Coup** כולל מימוש לוגיקה, בדיקות יחידה, והרצת **GUI** להצגה קומפקטית של המשחק (כל השחקנים על אותו מסך, תפריט לפי תור נוכחי).
